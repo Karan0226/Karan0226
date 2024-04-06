@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Sahani</h1>
 <h3 align="center">👨‍💻 Computer Science student | Passionate about coding, problem-solving, and technology | Constantly learning and exploring new things in the tech world | Open to collaboration and eager to contribute to exciting projects | Loves coffee and late-night coding sessions 🚀 | Connect with me and let's build something amazing together! 🌟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karan0226&label=Profile%20views&color=0e75b6&style=flat" alt="karan0226" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan0226" alt="karan0226" /></a> </p>
 
 - 💬 Ask me about **Frontend Development and Graphics Designing.**
 
